@@ -1,6 +1,6 @@
 # tp-lab07
 
-[Используемый в этом проектое пакет](https://github.com/roflanpotsan/factorial)
+[Используемый в этом проекте пакет](https://github.com/roflanpotsan/factorial)
 
 [Мой форк хантера](https://github.com/roflanpotsan/hunter)
 
