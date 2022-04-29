@@ -1,8 +1,8 @@
 # tp-lab07
 
-https://github.com/roflanpotsan/factorial
+[Используемый в этом проектое пакет](https://github.com/roflanpotsan/factorial)
 
-https://github.com/roflanpotsan/hunter
+[Мой форк хантера](https://github.com/roflanpotsan/hunter)
 
 1. Создать репозиторий для пакета, который можно будет подключать через Hunter.
 2. Написать код, [CMakeLists.txt](https://github.com/hunterbox/hunter_box_1/blob/master/CMakeLists.txt) и [Config.cmake.in](https://github.com/hunterbox/hunter_box_1/blob/master/cmake/Config.cmake.in) .
